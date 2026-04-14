@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/simplythatguy/simplythatguy/main/GIthub_Banner.png)
+![Banner](https://raw.githubusercontent.com/simplythatguy/simplythatguy/refs/heads/main/GIthub_Banner.png)
